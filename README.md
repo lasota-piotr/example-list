@@ -3,4 +3,4 @@
 Used:
 * BEM
 * SASS
-* vanila JS
+* vanilla JS
